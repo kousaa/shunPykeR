@@ -4,7 +4,6 @@
 
 *This guide starts with a click on the `Run` button. Once that is done, just keep clicking...*
 
-<img align="left" src="images/shunpiker_definition_logo.png" height=200 />
 
 ###  This guide in a nutshell
 
@@ -28,3 +27,4 @@ Here is the list of tools that we implement across this guide:
 - **Part 3** Explore visualization alternatives <a href='#part_3'>[here]</a>
 - **Part 4** Apply differential expression analysis <a href='#part_4'>[here]</a>
 
+<img align="left" src="images/shunpiker_definition_logo.png" height=200 />
