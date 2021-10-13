@@ -25,3 +25,5 @@ Here is the list of tools that we implement across this guide:
 - **Part 2** Intergrate together multiple "clean" samples <a href='#part_2'>[here]</a>
 - **Part 3** Explore visualization alternatives <a href='#part_3'>[here]</a>
 - **Part 4** Apply differential expression analysis <a href='#part_4'>[here]</a>
+
+<img align="left" src="images/shunpiker_infographic.pdf" width=900/>
