@@ -5,9 +5,8 @@
 *This guide starts with a click on the `Run` button. Once that is done, just keep clicking...*
 <br/><br/>
 
-<img align="left" src="images/shunpiker_definition_logo.png" height=200 />
+<img align="left" src="images/shunpiker_definition_logo.png" height=300 />
 
-<br/><br/>
 <br/><br/>
 <br/><br/>
 <br/><br/>
