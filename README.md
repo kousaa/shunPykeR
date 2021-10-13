@@ -8,6 +8,8 @@
 
 ###  This guide in a nutshell
 
+<p align="center"> <img src="images/shunpiker_infographic.jpg" width=500/> </p>
+
 This guide is a complete pipeline for the analysis of scRNA-seq datasets from start to finish in python. It has been simplified by hiding more complex code snipsets behind the scenes (within the `shunpiker_modules.py` file) allowing non computational scientists to perform a robust and thorough analysis of their scRNA-seq datasets with (relative) peace of mind. However, it can also be used by bioinformaticians that may want to adjust it and reuse it in their own way. 
 
 Within this guide we have brought together a combination of already established scRNA-seq analysis tools, that we have put together in a logical order to simplify running your analysis. A general rule of thumb for analyzing your data would be to discard "unwanted" cells on a per sample basis, while removing not expressed genes across all your samples together.
@@ -26,4 +28,3 @@ Here is the list of tools that we implement across this guide:
 - **Part 3** Explore visualization alternatives <a href='#part_3'>[here]</a>
 - **Part 4** Apply differential expression analysis <a href='#part_4'>[here]</a>
 
-<p align="center"> <img src="images/shunpiker_infographic.jpg" width=500/> </p>
