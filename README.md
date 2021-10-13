@@ -4,10 +4,11 @@
 
 *This guide starts with a click on the `Run` button. Once that is done, just keep clicking...*
 
+<img align="left" src="images/shunpiker_definition_logo.png" height=200 />
+
 
 ###  This guide in a nutshell
 
-<p align="center"> <img src="images/shunpiker_infographic.jpg" width=500/> </p>
 
 This guide is a complete pipeline for the analysis of scRNA-seq datasets from start to finish in python. It has been simplified by hiding more complex code snipsets behind the scenes (within the `shunpiker_modules.py` file) allowing non computational scientists to perform a robust and thorough analysis of their scRNA-seq datasets with (relative) peace of mind. However, it can also be used by bioinformaticians that may want to adjust it and reuse it in their own way. 
 
@@ -27,4 +28,4 @@ Here is the list of tools that we implement across this guide:
 - **Part 3** Explore visualization alternatives <a href='#part_3'>[here]</a>
 - **Part 4** Apply differential expression analysis <a href='#part_4'>[here]</a>
 
-<img align="left" src="images/shunpiker_definition_logo.png" height=200 />
+<p align="center"> <img src="images/shunpiker_infographic.jpg" width=700/> </p>
