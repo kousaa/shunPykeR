@@ -35,3 +35,4 @@ Here is the list of tools that we implement across this guide:
 - **Part 4** Apply differential expression analysis <a href='#part_4'>[here]</a>
 
 
+Go to Jupyter notebook here.
