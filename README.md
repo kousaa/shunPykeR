@@ -4,7 +4,7 @@
 
 *This guide starts with a click on the `Run` button. Once that is done, just keep clicking...*
 
-<img align="left" src="images/shunpiker_definition_logo.png" width=800 height=400 />
+<img align="left" src="images/shunpiker_definition_logo.png" height=200 />
 
 ###  This guide in a nutshell
 
