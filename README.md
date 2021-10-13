@@ -8,6 +8,10 @@
 <img align="left" src="images/shunpiker_definition_logo.png" height=200 />
 
 <br/><br/>
+<br/><br/>
+<br/><br/>
+<br/><br/>
+<br/><br/>
 
 ###  This guide in a nutshell
 
