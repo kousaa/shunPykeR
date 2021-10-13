@@ -4,6 +4,8 @@
 
 *This guide starts with a click on the `Run` button. Once that is done, just keep clicking...*
 
+<img align="left" src="images/shunpiker_definition_logo.png" width=400 height=400 />
+
 ###  This guide in a nutshell
 
 This guide is a complete pipeline for the analysis of scRNA-seq datasets from start to finish in python. It has been simplified by hiding more complex code snipsets behind the scenes (within the `shunpiker_modules.py` file) allowing non computational scientists to perform a robust and thorough analysis of their scRNA-seq datasets with (relative) peace of mind. However, it can also be used by bioinformaticians that may want to adjust it and reuse it in their own way. 
