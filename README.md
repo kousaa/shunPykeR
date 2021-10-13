@@ -35,4 +35,4 @@ Here is the list of tools that we implement across this guide:
 - **Part 4** Apply differential expression analysis <a href='#part_4'>[here]</a>
 
 <br/><br/>
-<p align="left"> <img src="images/shunpiker_infographic.jpg" width=700/> </p>
+<p align="center"> <img src="images/shunpiker_infographic.jpg" width=700/> </p>
