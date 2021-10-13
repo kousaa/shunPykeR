@@ -9,13 +9,7 @@
 *This guide starts with a click on the `Run` button. Once that is done, just keep clicking...*
 <br/><br/>
 
-<img align="left" src="images/shunpiker_definition_logo.png" height=200 />
 
-<br/><br/>
-<br/><br/>
-<br/><br/>
-<br/><br/>
-<br/><br/>
 
 ###  This guide in a nutshell
 
@@ -37,4 +31,6 @@ Here is the list of tools that we implement across this guide:
 - **Part 2** Intergrate together multiple "clean" samples <a href='#part_2'>[here]</a>
 - **Part 3** Explore visualization alternatives <a href='#part_3'>[here]</a>
 - **Part 4** Apply differential expression analysis <a href='#part_4'>[here]</a>
+
+<img align="left" src="images/shunpiker_definition_logo.png" height=200 />
 
