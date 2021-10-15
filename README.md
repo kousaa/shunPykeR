@@ -29,10 +29,10 @@ Here is the list of tools that we implement across this guide:
 **Part 1** in this notebook guides you through fully analyzing one sample from scratch to finish, and also store the results for integration with other samples if necessary. If you only have one sample, then **Part 1** is all you need. You can then skip to **Part 3** to explore more visualization options for your data. If you have more than one sample, store good quality cells per sample using **Part 1** and then move to **Part 2** to integrate all your samples together. **Part 3** provides functions to allow data visualization, while **Part 4** let's you perform a differential expression analysis between your cluster of interest.
 
 
-- **Part 1** Perform quality control and clean up each sample from scratch <a href='#part_1'>[here]</a>
-- **Part 2** Intergrate together multiple "clean" samples <a href='#part_2'>[here]</a>
-- **Part 3** Explore visualization alternatives <a href='#part_3'>[here]</a>
-- **Part 4** Apply differential expression analysis <a href='#part_4'>[here]</a>
+- **Part 1** Perform quality control and clean up each sample from scratch
+- **Part 2** Intergrate together multiple "clean" samples
+- **Part 3** Explore visualization alternatives
+- **Part 4** Apply differential expression analysis
 
 
 See the complete Jupyter notebook here.
