@@ -26,13 +26,13 @@ Here is the list of tools that we implement across this guide:
 - **phenoGraph**<sup>3</sup> clusters cells based on their multi-dimensional enviroment (https://github.com/jacoblevine/PhenoGraph)
 
 
-**Part 1** in this notebook guides you through fully analyzing one sample from scratch to finish, and also store the results for integration with other samples if necessary. If you only have one sample, then **Part 1** is all you need. You can then skip to **Part 3** to explore more visualization options for your data. If you have more than one sample, store good quality cells per sample using **Part 1** and then move to **Part 2** to integrate all your samples together. **Part 3** provides functions to allow data visualization, while **Part 4** let's you perform a differential expression analysis between your cluster of interest.
+**Step 1** in this notebook guides you through fully analyzing one sample from scratch to finish, and also store the results for integration with other samples if necessary. If you only have one sample, then **Step 1** is all you need. You can then skip to **Step 3** and **Step 4** to explore more visualization options for your data and perform differential expression analysis between your clusters of interest. If you have more than one sample, store good quality cells per sample using **Step 1** and then move to **Step 2** to integrate all your samples together. Then again move to **Step 3** and **Step 4** as described above.
 
 
-- **Part 1** Perform quality control and clean up each sample from scratch
-- **Part 2** Intergrate together multiple "clean" samples
-- **Part 3** Explore visualization alternatives
-- **Part 4** Apply differential expression analysis
+- **Step 1** Perform quality control and clean up each sample from scratch
+- **Step 2** Intergrate together multiple "clean" samples
+- **Step 3** Explore visualization alternatives
+- **Step 4** Apply differential expression analysis
 
 
 See the complete Jupyter notebook here.
