@@ -36,4 +36,4 @@ Here is the list of tools that we implement across this guide:
 - **Step 5** TBA
 
 
-See the complete Jupyter notebook [here]("./The shunPykeR's guide to scRNA-seq analysis").
+See the complete Jupyter notebook [here](./The shunPykeR's guide to scRNA-seq analysis.ipynb).
