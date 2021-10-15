@@ -33,6 +33,7 @@ Here is the list of tools that we implement across this guide:
 - **Step 2** Intergrate together multiple "clean" samples
 - **Step 3** Explore visualization alternatives
 - **Step 4** Apply differential expression analysis
+- **Step 5** TBA
 
 
-See the complete Jupyter notebook here.
+See the complete Jupyter notebook [here]("./The shunPykeR's guide to scRNA-seq analysis").
