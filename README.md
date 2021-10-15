@@ -36,4 +36,4 @@ A general rule of thumb for the analysis of scRNA-seq dataset would be to discar
 - **Step 5** TBA
 
 
-See the complete Jupyter notebook [here](./The shunPykeR's guide to scRNA-seq analysis.ipynb).
+See the complete Jupyter notebook [here](shunPykeR_guide.ipynb).
