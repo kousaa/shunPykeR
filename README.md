@@ -39,6 +39,6 @@ A general rule of thumb for the analysis of scRNA-seq dataset would be to discar
 See the complete Jupyter notebook [here](shunPykeR_guide.ipynb).
 
 ### Citations
-Wolf, F. A., Angerer, P. & Theis, F. J. SCANPY: large-scale single-cell gene expression data analysis. Genome Biol. 19, 15 (2018).
-Gayoso, A. & Shor, J. JonathanShor/DoubletDetection: doubletdetection v3.0. (Zenodo, 2020). doi:10.5281/ZENODO.2678041.
-Azizi, E. et al. Single-Cell Map of Diverse Immune Phenotypes in the Breast Tumor Microenvironment. Cell 174, 1293-1308.e36 (2018).
+1. Wolf, F. A., Angerer, P. & Theis, F. J. SCANPY: large-scale single-cell gene expression data analysis. Genome Biol. 19, 15 (2018).
+2. Gayoso, A. & Shor, J. JonathanShor/DoubletDetection: doubletdetection v3.0. (Zenodo, 2020). doi:10.5281/ZENODO.2678041.
+3. Azizi, E. et al. Single-Cell Map of Diverse Immune Phenotypes in the Breast Tumor Microenvironment. Cell 174, 1293-1308.e36 (2018).
