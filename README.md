@@ -1,5 +1,5 @@
-# The shunPykeR's guide to single cell RNA-seq analysis
 [![DOI](https://zenodo.org/badge/402799957.svg)](https://zenodo.org/badge/latestdoi/402799957)
+# The shunPykeR's guide to single cell RNA-seq analysis
 
 <img align="left" src="images/shunpiker_definition_logo.png" height=200 />
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
