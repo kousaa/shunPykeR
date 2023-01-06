@@ -224,6 +224,7 @@ dependencies:
     - tifffile==2022.8.12
     - tzdata==2022.2
     - tzlocal==4.2
+    - watermark==2.3.1
     - werkzeug==2.2.2
     - xlrd==2.0.1
     - xlsxwriter==3.0.3
