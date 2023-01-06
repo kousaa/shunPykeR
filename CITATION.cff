@@ -1,4 +1,4 @@
-cff-version: 1.0
+cff-version: 1.0.0
 message: "If you use this software, please cite it as below."
 authors:
 - family-names: "Kousa"
@@ -8,7 +8,7 @@ authors:
   given-names: "Andri Leo"
   orcid: "https://orcid.org/0000-0001-5165-0247"
 title: "The shunPykeR's guide to single cell analysis"
-version: 1.0
+version: 1.0.0
 doi: 10.5281/zenodo.7510613
 date-released: 2023-01-06
 url: "https://github.com/kousaa/shunPykeR"
