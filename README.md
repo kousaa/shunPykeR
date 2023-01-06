@@ -61,7 +61,7 @@ This icon (⏳) let's you know that the process may take a long time to run
   
 <br/>
 
-See the **complete notebook** [here](shunPykeR_guide.ipynb).
+See the **complete notebook** [here](notebooks/shunPykeR_guide.ipynb).
 
 <br/>
 
