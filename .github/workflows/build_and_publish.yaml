@@ -40,6 +40,6 @@ jobs:
           file: Dockerfile-base
           push: true
           tags: type=sha
-	  flavor: |
+          flavor: |
             latest=auto
           labels: ${{ steps.meta.outputs.labels }}
