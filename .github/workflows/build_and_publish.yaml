@@ -37,7 +37,9 @@ jobs:
         uses: docker/build-push-action@ad44023a93711e3deb337508980b4b5e9bcdc5dc
         with:
           context: .
-	  dockerfile: Dockerfile-base
+	  file: Dockerfile-base
           push: true
-          tags: ${{ steps.meta.outputs.tags }}
+          tags:
+	    - ${{ steps.meta.outputs.tags }}
+	    - latest
           labels: ${{ steps.meta.outputs.labels }}
