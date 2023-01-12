@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/402799957.svg)](https://zenodo.org/badge/latestdoi/402799957)
+[![DOI](https://zenodo.org/badge/402799957.svg)](https://zenodo.org/badge/latestdoi/402799957)[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nickp60/shunPykeR/HEAD?labpath=notebooks/shunPykeR_guide.ipynb/)
 # The shunPykeR's guide to single cell analysis
 *Anastasia Kousa and Andri Lemarquis*
 
