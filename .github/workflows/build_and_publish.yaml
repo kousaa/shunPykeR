@@ -39,7 +39,7 @@ jobs:
           context: .
           file: Dockerfile-base
           push: true
-          tags: |
-            ${{ steps.meta.outputs.tags }}
-            ${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}:latest
+          tags: type=sha
+	  flavor: |
+            latest=auto
           labels: ${{ steps.meta.outputs.labels }}
