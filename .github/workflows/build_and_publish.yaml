@@ -35,6 +35,7 @@ jobs:
           tags: |
            type=ref,event=tag
            type=raw,value={{sha}}
+	   type=raw,value=latest,enable=${{ github.ref == format('refs/heads/{0}', 'main') }}
           flavor: |
             latest=auto
 
