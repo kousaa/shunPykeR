@@ -30,6 +30,9 @@ jobs:
       - name: Extract metadata (tags, labels) for Docker
         id: meta
         uses: docker/metadata-action@98669ae865ea3cffbcbaa878cf57c20bbf1c6c38
+        tags: type=sha
+        flavor: |
+          latest=auto
         with:
           images: ${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}
 
@@ -39,7 +42,5 @@ jobs:
           context: .
           file: Dockerfile-base
           push: true
-          tags: type=sha
-          flavor: |
-            latest=auto
+          tags: ${{ steps.meta.outputs.tags }}
           labels: ${{ steps.meta.outputs.labels }}
