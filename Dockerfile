@@ -1,0 +1,1 @@
+FROM ghcr.io/nickp60/shunpyker:latest
